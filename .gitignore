@@ -1,0 +1,4 @@
+#ignore all tghe files in ANY directory named temp
+tem/
+#ignore ALL .log files
+*.log.
